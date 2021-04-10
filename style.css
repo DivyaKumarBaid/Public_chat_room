@@ -1,0 +1,223 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+ 
+  body {
+    margin: 20px auto;
+    background:url("1.jpg");    
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+  }
+  #box{
+    background: white;
+  }
+   
+  form {
+    padding: 15px 25px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+  }
+   
+  form label {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+   
+  input {
+    font-family: "Lato";
+  }
+   
+
+
+  a {
+    color: #0000ff;
+    text-decoration: none;
+  }
+   
+
+  a:hover {
+    text-decoration: underline;
+    
+  }
+  .welcome{
+    margin-top: 5px;
+    color: white;
+    font-weight: bold;
+    font-size: larger;
+  }
+  #wrapper{
+    transform: translateY(50px);
+  }
+  #wrapper #menu{
+    margin: 0 auto;
+    padding-bottom: 25px;
+    background:#69e7ca81;
+    backdrop-filter: blur(15px);
+    width: 1000px;
+    max-width: 100%;
+    height:60px;
+    border: 2px solid linear-gradient(90deg,#7d83fd,#60e4ba);;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+  }
+
+  #loginform {
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 25px;
+    background:#64fda981;
+    backdrop-filter: blur(25px);
+    width: 600px;
+    max-width: 100%;
+    border: 2px solid linear-gradient(270deg,#ec5555,#60e4ba);
+    border-radius: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    padding-top: 18px;
+    text-align: center;
+  }
+   
+  #loginform p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    padding: 15px 25px;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  #n{
+     color:rgb(255, 255, 255);
+     background: rgba(41, 240, 41, 0.582);
+     border: 0.2px solid rgba(255, 0, 0, 0);
+     padding: 2px;
+     border-radius: 8px;
+   }
+  #chatbox {
+    flex-shrink: 1;
+    text-align: left;
+    margin: 0 auto;
+    margin-top: 0%;
+    margin-bottom: 25px;
+    padding: 10px;
+    background: rgba(75, 62, 62, 0.678);
+    height: 500px;
+    width: 1000px;
+    max-width:100%;
+    backdrop-filter: blur(10px);
+    border: 0px solid #a7a7a7;
+    overflow: auto;
+    border-bottom-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+    border-bottom: 4px solid #a7a7a7;
+    box-shadow: white;
+  }
+   
+  #usermsg {
+    font-size: larger;
+    flex: 0.7;
+    width: 800;
+    height: 30px;
+    border-radius: 9px;
+    border: 1px solid #ec5b5b00;
+    background: rgba(247, 247, 247, 0.856);
+    backdrop-filter: blur(25px);
+  }
+   
+  #name {
+    opacity: 0.5;
+    border-radius: 8px;
+    border: 1px solid #ffffff;
+    padding: 2px 8px;
+  }
+
+  #submitmsg,#enter{
+    background:none;
+    color:rgb(255, 190, 117);
+    border: 2px solid rgb(255, 190, 117);
+    font-size: 18px;
+    border-radius: 8px;
+    padding: 1px;
+    transition: all 0.3s;
+    }
+  #submitmsg:hover,#enter:hover{
+    
+    color:whitesmoke;
+    border:0.1em solid rgb(255, 190, 117);
+    background: rgb(255, 190, 117);
+    cursor: pointer;
+    transform: scale(1.05);
+    transition: all 0.3s;
+}
+
+.error {
+    color: #ff0000;
+  }
+   
+  #menu {
+    padding: 15px 25px;
+    display: flex;
+  }
+   
+  #menu p.welcome {
+    flex: 1;
+  }
+   
+
+
+
+  .msgln {
+    margin: 0 0 5px 0;
+    color:white;
+  }
+   
+  .msgln span.left-info {
+    color: orangered;
+  }
+   
+  .msgln span.chat-time {
+    
+    color: white;
+    font-size: 60%;
+    vertical-align: sub;
+    margin-right: 10px;
+  }
+   
+.msgln b.user-name, .msgln b.user-name-left, .msgln b.user-name-join {
+    font-weight: bold;
+    background: #546e7a;
+    color: white;
+    padding: 2px 4px;
+    font-size: 90%;
+    border-radius: 4px;
+    margin: 0 5px 0 0;
+  }
+   
+  .msgln b.user-name-left {
+    background: orangered;
+  }
+
+  .msgln span.join-info {
+    color: lightgreen;
+  }
+
+    .msgln b.user-name-join {
+    background: lightgreen;
+  }
+
+  #usersname{
+    text-align: left;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 10px;
+    background: rgba(255, 255, 255, 0.527);
+    border: 1px solid #a7a7a7;
+    overflow: auto;
+    border-radius: 16px;
+    border-bottom: 4px solid #a7a7a7;
+    box-shadow: white;
+    color:black;
+    backdrop-filter: blur(20px)
+ }

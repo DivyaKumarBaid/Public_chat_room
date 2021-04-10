@@ -1,0 +1,2 @@
+<div style="color:rgb(1, 99, 1);background: rgba(144, 238, 144, 0.400);border:0px solid green;border-radius:8px;padding:2px;padding-left:4px;backdrop-filter:blur(15px);font-size:larger;font-weight:bold;text-align:center">Logged In</div>
+<div style="color:rgb(1, 99, 1);font-size:large;margin-top:5px">
