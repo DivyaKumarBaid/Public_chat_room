@@ -1,7 +1,6 @@
 # Public_chat_room
 <p align="left">
-<a href="https://github.com/DivyaKumarBaid/Public_chat_room/blob/main/LICENSE" alt="Lisence"><img src="https://img.shields.io/github/license/DivyaKumarBaid/Public_chat_room"></a> <a href="https://github.com/DivyaKumarBaid/Public_chat_room/issues" alt="Issues"><img src="https://img.shields.io/github/issues/DivyaKumarBaid/Public_chat_room"></a> <a href="https://twitter.com/DivyakumarBaid1?s=09" alt="Twiter-Follow"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FDivyaKumarBaid%2FPublic_chat_room%2F
-"></a>
+<a href="https://github.com/DivyaKumarBaid/Public_chat_room/blob/main/LICENSE" alt="Lisence"><img src="https://img.shields.io/github/license/DivyaKumarBaid/Public_chat_room"></a> <a href="https://github.com/DivyaKumarBaid/Public_chat_room/issues" alt="Issues"><img src="https://img.shields.io/github/issues/DivyaKumarBaid/Public_chat_room"></a> <a href="https://twitter.com/DivyakumarBaid1?s=09" alt="Twiter-Follow"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FDivyaKumarBaid%2FPublic_chat_room%2F"></a>
 </p>
 
 This is a simple web-based public chat room build using php and jQuery including html.<br>
