@@ -31,7 +31,7 @@ This is the place from where XAMPP would have and run your php file so you need 
 1. Create a ```php``` virtual environment as mentioned above.
 2. Clone the repo ```git clone https://github.com/DivyaKumarBaid/Public_chat_room.git``` or download the repository.
 3. Go to the cloned/downloaded directory
-4. Either use a hosting website for really using it Or if you just want to know its working use XAMPP and run it on your machine before hsoting it.
+4. Either use a hosting website for really using it Or if you just want to know its working use XAMPP and run it on your machine before hosting it.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.Would definately like to have more of the css part to be amazing!
