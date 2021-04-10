@@ -43,4 +43,5 @@ Please make sure to update tests as appropriate.
 
 ## Note:
 I have also used bootstrap for grid and nav bar.
-
+I have used background Image from [here](https://wallpapersden.com/cool-4k-pattern-wallpaper/)
+And Learned the basis of this porject from [here](https://code.tutsplus.com/tutorials/how-to-create-a-simple-web-based-chat-application--net-5931)
