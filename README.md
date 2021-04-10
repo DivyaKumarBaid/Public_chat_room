@@ -5,7 +5,7 @@
 
 This is a simple web-based public chat room build using php and jQuery including html.<br>
 
-```Though this is a php based project you can have it hosted on multiple hosting websites such as repl, heroku etc. who support web based php.```
+```Though this is a php based project you can have it hosted on multiple hosting websites such as repl, heroku etc. which support web based php.```
 
 ```To run this on a standalone machine you need to have a local webserver and a database <br> For more info visit```[GeeksforGeeks](https://www.geeksforgeeks.org/how-to-execute-php-script-in-website-using-xampp-webserver/?ref=rp)
 
